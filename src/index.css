@@ -1,1 +1,8 @@
-@import "tailwindcss"
+@import "tailwindcss";
+
+
+@theme {
+  --font-mono: "IBM PLEX MONO" monospace;
+  --font-heading: "Unbounded";
+  --font-body: "Geist" sans;
+}
